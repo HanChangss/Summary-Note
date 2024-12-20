@@ -15,7 +15,7 @@
 - spring security
 - DB : MariaDB , Oracle
 - Gradle을 이용하여 라이브러리 다운
-- Vue.js
+- Vue.js 2.x
 - BootStrap
 
 ## 주요 변경
