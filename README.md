@@ -15,13 +15,13 @@
     │     └── mapper    # MyBatis 매퍼 인터페이스
     │   
     └── common
-    ├── control   # API 컨트롤러 (요청을 받고 서비스 계층 호출) 
-    ├── service   # 비즈니스 로직 및 데이터 처리
-    ├── dto       # 데이터 전송 객체 (계층 간 데이터 전달)
-    ├── mapper    # MyBatis 매퍼 인터페이스
-    ├── properties  # 어플리케이션 설정 파일 관련 클래스
-    ├── utils     # 보안 관련 클래스
-    └── security  # 공통 유틸리티 클래스
+        ├── control   # API 컨트롤러 (요청을 받고 서비스 계층 호출) 
+        ├── service   # 비즈니스 로직 및 데이터 처리
+        ├── dto       # 데이터 전송 객체 (계층 간 데이터 전달)
+        ├── mapper    # MyBatis 매퍼 인터페이스
+        ├── properties  # 어플리케이션 설정 파일 관련 클래스
+        ├── utils     # 보안 관련 클래스
+        └── security  # 공통 유틸리티 클래스
 
 massmail 같이 다른 패키지들은 공통으로 사용되고 있습니다.
 
