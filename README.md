@@ -8,7 +8,6 @@
 
 com.andwise.tm7
 
-
 ├── massmail 
 
 
@@ -23,9 +22,7 @@ com.andwise.tm7
 
 │   └── mapper    # MyBatis 매퍼 인터페이스
 
-
 │ 
-
 
 └── common
    
