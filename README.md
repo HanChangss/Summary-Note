@@ -8,6 +8,8 @@
 
 com.andwise.tm7
 ├── massmail 
+
+
 │   ├── control   # API 컨트롤러 (요청을 받고 서비스 계층 호출)
 │   ├── service   # 비즈니스 로직 및 데이터 처리
 │   ├── dto       # 데이터 전송 객체 (계층 간 데이터 전달)
