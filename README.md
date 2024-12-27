@@ -6,7 +6,8 @@
 
 ## 아키텍처
 
-com.andwise.tm7
+
+      com.andwise.tm7
 
    ├── massmail 
    
@@ -23,7 +24,6 @@ com.andwise.tm7
    │   └── mapper    # MyBatis 매퍼 인터페이스
    
    │ 
-   
     └── common
     ├── control   # API 컨트롤러 (요청을 받고 서비스 계층 호출)
     
