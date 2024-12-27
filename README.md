@@ -8,7 +8,7 @@
 
 com.andwise.tm7
 
-├── massmail 
+├ ── massmail 
 
 
 │     ├── control   # API 컨트롤러 (요청을 받고 서비스 계층 호출)
